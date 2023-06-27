@@ -1,5 +1,5 @@
 <div> <h3 align="center">
-<img align="center" alt="Figma" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />Protótipo criado em Figma para o primeiro projeto Global Solution-FIAP!<img align="center" alt="Figma" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> </h3>
+<img align="center" alt="Figma" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />Protótipo criado em Figma para o primeiro projeto Global Solution-FIAP!<img width="48" height="48" align="center" src="https://img.icons8.com/color/48/field.png" alt="field"/> </h3>
 <h4>Desafio:</h4>Desenvolver uma solução em software que interaja com uma IA generativa. Analise as metas da ODS2 e encontre uma solução inovadora e que permita alcançar alguma meta.</div>
 
 ##
